@@ -13,7 +13,10 @@ html {
     -o-background-size: cover;
     background-size: cover;
   }
-  
+  .a{
+    text-decoration: none;
+    color: #2074f4;
+  }
   canvas {
     position: fixed;
     top:0;
